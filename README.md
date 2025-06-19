@@ -1,2 +1,3 @@
-# jupyter_data_analysis
+# jupyter and pandas for data analysis
+
 Coursera guided project
